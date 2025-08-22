@@ -38,6 +38,14 @@ terepen edzek. Leghosszabb teljesítésem a Piros 85 teljesítménytúra, kocogv
 futva, túrázva (88km 3,300m szintemelkedés, 13,5 óra). A legbrutálisabb pedig a
 Mátra 60 (59km 3,400m szint júliusban, 11:04).
 
+2016-ban Spanyolországba költöztem, és ott a folyamatos jó idő - szinte
+már a túl jó idő - miatt is többet tudtam kint edzeni, itt vezettem be a
+heti 6 edzést. Ennek meg is lett az eredménye, a maratoni eredményemet
+3:26-ra tudtam lenyomni, illetve futottam két 90 perc alatti félmaratont, a
+legjobb 1:28:59 lett, ezt Castelldefels-ben teljesítettem. Volt még egy
+40:11-es 10 km, illetve egy 19:43-as 5 km. Ezzel ki is maxoltam a futást,
+aminek örülök, mert ezután már más dolgok kerültek fókuszba.
+
 ## Olvasnivalók
 
 Szeretek olvasni, mert ahogy mondják az olvasás az egyetlen kockázatmentes
