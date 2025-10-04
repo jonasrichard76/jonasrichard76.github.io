@@ -15,3 +15,4 @@ feltölteni ide őket.
 | Szám címe           | Megjegyzés                           |                 Link                 |
 | :------------------ | :----------------------------------- | :----------------------------------: |
 | Moby Dick - Terápia | A szólót csak félig sikerült leírni. | [tab](</tab/Moby Dick - Terapia.gp>) |
+| Lord - Álmodom      | A szólóban vannak bizonytalanságok.  |   [tab](</tab/Lord - Almodom.gp>)    |
