@@ -30,6 +30,16 @@
         {% else %}
           {{ page.content | safe }}
         {% endif %}
+
+        {% set tabs = load_data(path="content/guitar-tabs.json") %}
+
+        <ul>
+        {% for tab in tabs %}
+          <li>
+            <a href="{{ tab.file }}">{{ tab.title }} - {{ tab.artist }}</a>
+          </li>
+        {% endfor %}
+        </ul>
       </main>
       <aside></aside>
 
