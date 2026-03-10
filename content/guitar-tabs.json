@@ -2,11 +2,19 @@
     {
         "title": "Terápia",
         "artist": "Moby Dick",
-        "file": "/tab/Moby Dick - Terapia.gp"
+        "file": "/tab/Moby Dick - Terapia.gp",
+        "pdf": "/tab/Moby Dick - Terapia.pdf"
+    },
+    {
+        "title": "David's XR2",
+        "artist": "Toy Dolls",
+        "file": "/tab/Toy Dolls - David's XR2.gp",
+        "pdf": "/tab/Toy Dolls - David's XR2.pdf"
     },
     {
         "title": "Álmodom",
         "artist": "Lord",
-        "file": "/tab/Lord - Almodom.gp"
+        "file": "/tab/Lord - Almodom.gp",
+        "pdf": "/tab/Lord - Almodom.pdf"
     }
 ]

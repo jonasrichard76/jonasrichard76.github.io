@@ -11,3 +11,6 @@ megtanulni. Úgyhogy nem maradt más lehetőség, mint lefülelni a nekem tetsz�
 számokat, és ha már használom a Guitar Pro 8-at, akkor csináljuk meg a
 tabulatúrákat is. Nem vagyok tapasztalt a 'transcribing' tudományában, de
 igyekszem pontosan lejegyezni a számokat, és feltölteni ide őket.
+
+Segítségemre van az [Ultimate Vocal Remover](https://ultimatevocalremover.com/)
+AI alapú szoftver, amivel a gitár sávot el tudom különíteni.

@@ -36,7 +36,11 @@
         <ul>
         {% for tab in tabs %}
           <li>
-            <a href="{{ tab.file }}">{{ tab.title }} - {{ tab.artist }}</a>
+            {{ tab.artist }} - {{ tab.title }}
+            <a href="{{ tab.file }}"><img class="icon" src="/icons/guitar.png" alt="{{ tab.title }} GP file" /></a>
+            {% if tab.pdf is defined and tab.pdf %}
+              <a href="{{ tab.pdf }}"><img class="icon" src="/icons/pdf.png" alt="{{ tab.title }} PDF file" /></a>
+            {% endif %}
           </li>
         {% endfor %}
         </ul>
