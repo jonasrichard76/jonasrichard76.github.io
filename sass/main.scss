@@ -6,6 +6,7 @@ width: 90vw;
 
 :root {
     --main-bg-color: #fffceb;
+    --nav-bg-color: #a22d2d;
     --section-color: #fcf2d9;
     --text-color: #000;
     --link-color: #eaa048;
@@ -49,7 +50,7 @@ main {
 
 nav {
     align-items: center;
-    background-color: #222;
+    background-color: var(--nav-bg-color);
     display: flex;
     justify-content: space-between;
     padding: 0.5em 0 0.5em 0;
@@ -124,13 +125,15 @@ p, li {
 .feature {
     background-image: url("/images/wood-desk-mac-water.jpg");
     background-size: cover;
-    background-position: center;
+    display: flex;
     height: 300px;
 }
 
 .feature-title-box {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    width: 100%;
 }
 
 .feature .blog-title {
@@ -138,6 +141,15 @@ p, li {
     padding: 0 20px;
     background-color: rgba(32, 32, 32, 0.5);
     font: normal 500 2.5em 'Rock Salt', cursive;
+    line-height: 150%;
+    text-align: center;
+}
+
+.feature .blog-subtitle {
+    color: white;
+    padding: 0 20px;
+    background-color: rgba(32, 32, 32, 0.5);
+    font: normal 400 1.5em 'Rock Salt', cursive;
     line-height: 150%;
     text-align: center;
 }
@@ -155,6 +167,10 @@ a {
 
 a:hover {
     color: var(--link-hover-color);
+}
+
+body.dark-mode nav {
+    background-color: #752525;
 }
 
 body.dark-mode a {
